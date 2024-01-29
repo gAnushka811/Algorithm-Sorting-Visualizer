@@ -1,3 +1,5 @@
+// Heap sort -
+
 function Heap()
 {
     c_delay=0;
