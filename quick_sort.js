@@ -1,5 +1,3 @@
-
-
 function Quick()
 {
     c_delay=0;
